@@ -12,7 +12,7 @@ Notifications: Stay updated with the latest happenings.
 Fact Checking: Ensure accuracy with our fact-checking feature.
 Live Updates: Keep track of real-time updates on ongoing stories.
 🚀 Getting Started
-Clone the repo: git clone https://github.com/yourusername/i254daily.git
+Clone the repo: git clone https://github.com/ngarisam/news4you
 Navigate to the project directory: cd i254daily
 Install dependencies: pip install -r requirements.txt
 Apply migrations: python manage.py migrate
